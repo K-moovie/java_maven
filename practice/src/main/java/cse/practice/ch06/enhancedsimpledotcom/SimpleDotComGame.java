@@ -2,7 +2,6 @@
 package cse.practice.ch06.enhancedsimpledotcom;
 
 import java.util.ArrayList;
-import java.util.Collections;
 
 public class SimpleDotComGame {
     public static void main(String[] args){
