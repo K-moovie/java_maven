@@ -25,8 +25,7 @@ public class Student {
     }
     
     public static void main(String[] args) {
-        Address homeAddress = new Address("부산시","부산진구", "엄광로", "176");
-        Student s = new Student("s20163363", "김영화", homeAddress);
+        Student s = new Student("s20163363", "김영화", new Address("부산시","부산진구", "엄광로", "176"));
         System.out.print(s);
     }
 }
