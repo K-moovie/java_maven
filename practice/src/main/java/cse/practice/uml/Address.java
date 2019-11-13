@@ -14,6 +14,7 @@ public class Address {
         this.builingNumber = buildingNumber;
     }
     
+    
     @Override
     public String toString(){
         String str = String.format("주소 = %s %s %s %s",this.city,this.gu,this.streetName, this.builingNumber);
