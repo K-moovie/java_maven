@@ -1,0 +1,2 @@
+Test the DECORATOR pattern.
+안녕하세요?
